@@ -3,6 +3,9 @@
 ### Introduction
 This Project will help project manager to track risk associated with a file in a project using Software Engineering Metrics. Since output is csv file changes in values can be easily spotted by finding difference between two commits.
 
+### Usage
+Open `Code_Bug_Prediction.ipynb` in Google Colab.
+
 ### Features
 - Support multiple programming languages
 - Easy to run python notebook file
