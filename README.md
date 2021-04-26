@@ -62,17 +62,16 @@ Seperate Installation is not required. Notebook has installing command writen.
 
 ### FlowChart
 
-```flow
-st=>start: Start
-op1=>operation: clone repository
-op2=>operation: install multimetric
-op3=>operation: get metric for all files in folder
-op4=>operation: output json file
-op5=>operation: format json file
-op6=>operation: export csv from json
-e=>end: csv file
+```
+step1=>start: Start
+step2=>operation: clone repository
+step3=>operation: install multimetric
+step4=>operation: get metric for all files in folder
+step5=>operation: output json file
+step6=>operation: format json file
+step7=>operation: export csv from json
+step8=>end: csv file
 
-st->op1->op2->op3->op4->op5->op6->e
 ```
 
 ------------
