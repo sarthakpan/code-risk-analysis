@@ -17,7 +17,7 @@ Seperate Installation is not required. Notebook has installing command writen.
 
 ------------
 
-#### Output Column Description
+### Output Column Description
 | item                  | description                                    | range    | recommendation |
 | ------------------| ---------------------------------------- | -------- | -------------- |
 | comment_ratio         | Comment to Code percentage                     | 0..100   | > 30.0         |
@@ -50,7 +50,7 @@ Seperate Installation is not required. Notebook has installing command writen.
 ------------
 
 
-###Task List
+### Task List
 - [x] Java Support
 - [x] Multi Language Support
 - [x] Formatted Output
@@ -60,7 +60,7 @@ Seperate Installation is not required. Notebook has installing command writen.
 
 ------------
 
-###FlowChart
+### FlowChart
 
 ```flow
 st=>start: Start
@@ -77,10 +77,10 @@ st->op1->op2->op3->op4->op5->op6->e
 
 ------------
 
-###Developer
+### Developer
 - Sarthak Pan (TCS Intern)
 
 ------------
 
-###Authorization
+### Authorization
 ###### Tata Consultancy Services
