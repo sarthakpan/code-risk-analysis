@@ -3,8 +3,15 @@
 ### Introduction
 This Project will help project manager to track risk associated with a file in a project using Software Engineering Metrics. Since output is csv file changes in values can be easily spotted by finding difference between two commits.
 
+### Use Case
+This tool will come handy when a project manager wants to check what is the quality of code. Sometimes developers tends to use more lines of code which are not useful at all, or they use to much of space or comments to increase LOC whiich can be monitored easily using this tool.
+This tool uses some common metrics like Halstead’s Software Metrics, Cyclomatic complexity (McCabe), Maintainability Index, Number of operators, etc. An examinar can see this values in csv file which is output of this tool and mark files which can have potential risk.
+
 ### Usage
 Open `Code_Bug_Prediction.ipynb` in Google Colab.
+In cell where `!git clone` is written change the link with your repository path.
+And Run All Cells
+Output file will be in your Files section.
 
 ### Features
 - Support multiple programming languages
